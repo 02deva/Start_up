@@ -1,0 +1,38 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Heading Styles */
+h1 {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    background-color: #3498db; /* Blue background color */
+    padding: 15px 20px; /* Padding for better appearance */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+    text-align: center; /* Center-align text */
+}
+
+/* Additional Styles for Overall Appearance */
+p {
+    margin-bottom: 20px;
+    line-height: 1.6; /* Improved readability */
+}
+
+/* Example of Other Elements */
+a {
+    color: #3498db; /* Matching link color with heading background */
+    text-decoration: none;
+    transition: color 0.3s ease; /* Smooth transition for link color change */
+}
+
+a:hover {
+    color: #2980b9; /* Darker blue on hover */
+}
+
